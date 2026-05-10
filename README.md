@@ -1,8 +1,6 @@
 # Oracle-Fusion-Consultant-Hub 🚀
 
-[![License: MIT](https://shields.io)](https://opensource.org)
-[![Domain: HCM](https://shields.io)](https://oracle.com)
-
+ 
 **A specialized knowledge base for Oracle HCM Cloud & Technical Professionals. Centralizing SQL, HDL, OIC patterns, and core admin guides for Security, Approvals, and Platform configurations.**
 
 ---
